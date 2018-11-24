@@ -25,7 +25,7 @@ SECRET_KEY = 'y_*1c=+@m+c&fu-#&)6_og94*gyd6&y+2(uzo^n&t(s^anu9cu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'nekojess.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nekojess.pythonanywhere.com', 'pythonanywhere.com', ]
 
 
 # Application definition
